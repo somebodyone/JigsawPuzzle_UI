@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" designImage="ui://j1nx51f5sv2v3">
+  <displayList>
+    <image id="n2_sv2v" name="bg" src="c00l4" fileName="bg_1.jpg" xy="0,0" size="1080,1920">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n0_sv2v" name="slider" src="sv2v1" fileName="加载页进度条.xml" xy="179,1701" size="721,55">
+      <ProgressBar max="100"/>
+    </component>
+  </displayList>
+</component>

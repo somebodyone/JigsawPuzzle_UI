@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="j01fy4y0">
+  <resources>
+    <component id="vpwc0" name="主页.xml" path="/" exported="true"/>
+    <component id="sv2v3" name="3X3.xml" path="/组件/" exported="true"/>
+    <component id="sv2v4" name="6X6.xml" path="/组件/" exported="true"/>
+    <component id="sv2v5" name="3X3组件.xml" path="/" exported="true"/>
+    <image id="sv2v7" name="mask(1).png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

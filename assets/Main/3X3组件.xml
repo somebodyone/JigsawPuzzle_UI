@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="360,640">
+  <displayList>
+    <component id="n8_sv2v" name="compent" src="sv2v3" fileName="组件/3X3.xml" xy="0,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,320" mask="n1_sv2v">
+  <displayList>
+    <loader id="n0_sv2v" name="icon" xy="0,0" size="1080,1920" url="ui://jab07ubasv2v2" fill="scaleFree"/>
+    <graph id="n1_sv2v" name="mask" xy="0,0" size="180,320" type="rect"/>
+  </displayList>
+</component>
