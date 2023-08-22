@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920">
   <displayList>
-    <loader id="n7_sv2v" name="bg" xy="0,0" size="1080,1920" url="ui://jab07ubasv2v2" fill="scaleFree">
+    <loader id="n7_sv2v" name="bg" xy="0,0" size="1080,1920" url="ui://jab07ubasv2v1" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
-    <component id="n8_sv2v" name="n8" src="sv2v5" fileName="3X3组件.xml" xy="0,0"/>
-    <component id="n9_sv2v" name="n9" src="sv2v5" fileName="3X3组件.xml" xy="362,0"/>
-    <component id="n10_sv2v" name="n10" src="sv2v5" fileName="3X3组件.xml" xy="724,0"/>
-    <component id="n11_sv2v" name="n11" src="sv2v5" fileName="3X3组件.xml" xy="0,642"/>
-    <component id="n12_sv2v" name="n12" src="sv2v5" fileName="3X3组件.xml" xy="362,642"/>
-    <component id="n13_sv2v" name="n13" src="sv2v5" fileName="3X3组件.xml" xy="724,642"/>
-    <component id="n14_sv2v" name="n14" src="sv2v5" fileName="3X3组件.xml" xy="0,1285"/>
-    <component id="n15_sv2v" name="n15" src="sv2v5" fileName="3X3组件.xml" xy="362,1285"/>
-    <component id="n16_sv2v" name="n16" src="sv2v5" fileName="3X3组件.xml" xy="724,1285"/>
+    <component id="n19_izpa" name="BtnTest" src="izpa8" fileName="BtnTest.xml" xy="357,1350"/>
   </displayList>
 </component>

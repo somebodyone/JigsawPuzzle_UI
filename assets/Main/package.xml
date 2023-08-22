@@ -6,6 +6,7 @@
     <component id="sv2v4" name="6X6.xml" path="/组件/" exported="true"/>
     <component id="sv2v5" name="3X3组件.xml" path="/" exported="true"/>
     <image id="sv2v7" name="mask(1).png" path="/"/>
+    <component id="izpa8" name="BtnTest.xml" path="/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

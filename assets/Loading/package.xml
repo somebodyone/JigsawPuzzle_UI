@@ -3,7 +3,7 @@
   <resources>
     <component id="sv2v0" name="加载页.xml" path="/" exported="true"/>
     <component id="sv2v1" name="加载页进度条.xml" path="/"/>
-    <image id="c00l4" name="bg_1.jpg" path="/"/>
+    <image id="c00l4" name="bg_1.jpg" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

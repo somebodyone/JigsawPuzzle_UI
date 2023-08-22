@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,200" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <graph id="n4_izpa" name="n4" xy="0,0" size="400,200" type="rect" fillColor="#ffffff33"/>
+    <text id="n3_izpa" name="title" xy="20,26" size="327,143" fontSize="62" align="center" vAlign="middle" autoSize="none" text="测试"/>
+  </displayList>
+  <Button/>
+</component>
