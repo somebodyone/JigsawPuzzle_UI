@@ -4,6 +4,17 @@
     <loader id="n7_sv2v" name="bg" xy="0,0" size="1080,1920" url="ui://jab07ubasv2v1" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
-    <component id="n19_izpa" name="BtnTest" src="izpa8" fileName="BtnTest.xml" xy="357,1350"/>
+    <component id="n19_izpa" name="Btn1" src="izpa8" fileName="BtnTest.xml" xy="361,1469">
+      <Button title="图1-2*3"/>
+    </component>
+    <component id="n20_izpa" name="Btn2" src="izpa8" fileName="BtnTest.xml" xy="341,1146">
+      <Button title="图1-4*6"/>
+    </component>
+    <component id="n22_izpa" name="Btn3" src="izpa8" fileName="BtnTest.xml" xy="365,783">
+      <Button title="图2-2*3"/>
+    </component>
+    <component id="n21_izpa" name="Btn4" src="izpa8" fileName="BtnTest.xml" xy="343,478">
+      <Button title="图2-4*6"/>
+    </component>
   </displayList>
 </component>
