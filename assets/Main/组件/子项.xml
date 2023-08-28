@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1081,146">
+  <displayList>
+    <graph id="n37_e4tb" name="bg" xy="0,0" size="1081,146" type="rect"/>
+    <loader id="n34_e4tb" name="n34" xy="34,9" size="122,120"/>
+    <text id="n36_e4tb" name="n36" xy="184,11" size="572,117" font="ui://jab07ubae4tb2" fontSize="42" vAlign="middle" autoSize="none" text="All puzzles"/>
+  </displayList>
+</component>

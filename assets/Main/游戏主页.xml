@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n2_e4tb" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n3_e4tb" name="back" src="e4tb1s" fileName="返回按钮.xml" xy="47,48"/>
+  </displayList>
+</component>

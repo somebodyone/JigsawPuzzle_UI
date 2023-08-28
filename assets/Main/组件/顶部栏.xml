@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,158">
+  <displayList>
+    <graph id="n30_e4tb" name="n30" xy="0,0" size="1080,158" type="rect" lineSize="0"/>
+    <component id="n27_e4tb" name="n27" src="e4tb1l" fileName="设置按钮.xml" xy="944,36"/>
+    <component id="n29_e4tb" name="n29" src="e4tb1h" fileName="货币栏.xml" xy="288,5" pivot="0.5,0.5" scale="0.7,0.7"/>
+  </displayList>
+</component>

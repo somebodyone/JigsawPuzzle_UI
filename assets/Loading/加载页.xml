@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920" designImage="ui://j1nx51f5sv2v3">
   <displayList>
-    <image id="n2_sv2v" name="bg" src="c00l4" fileName="bg_1.jpg" xy="0,0" size="1080,1920">
-      <relation target="" sidePair="width-width,height-height"/>
-    </image>
-    <component id="n0_sv2v" name="slider" src="sv2v1" fileName="加载页进度条.xml" xy="179,1701" size="721,55">
-      <ProgressBar max="100"/>
+    <loader id="n3_e4tb" name="bg" xy="0,0" size="1080,1920" url="ui://j1nx51f5e4tb5" align="center" vAlign="middle" fill="scaleMatchWidth"/>
+    <component id="n0_sv2v" name="slider" src="sv2v1" fileName="加载页进度条.xml" xy="179,1701" size="721,81">
+      <ProgressBar value="100" max="100"/>
     </component>
+    <text id="n4_f6ix" name="title" xy="539,147" pivot="0.5,0.5" anchor="true" size="807,179" font="ui://jab07ubae4tb2" fontSize="101" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" faceDilate="0.1" text="Julg Puzzle"/>
   </displayList>
+  <transition name="come" autoPlay="true">
+    <item time="0" type="Alpha" target="n4_f6ix" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Scale" target="n4_f6ix" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Bounce.Out"/>
+  </transition>
 </component>

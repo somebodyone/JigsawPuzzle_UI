@@ -2,6 +2,7 @@
 <packageDescription id="jab07uba">
   <resources>
     <image id="sv2v1" name="bg_1.jpg" path="/图片/" exported="true"/>
+    <font id="e4tb2" name="Sarala-Bold.ttf" path="/" exported="true" renderMode="sdfaa" samplePointSize="60"/>
   </resources>
   <publish name=""/>
 </packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="505,153">
+  <displayList>
+    <image id="n29_e4tb" name="n29" src="e4tbc" fileName="图片/bg_card1.png" xy="0,0" size="505,166"/>
+    <text id="n30_e4tb" name="n30" xy="138,22" size="309,106" font="ui://jab07ubae4tb2" fontSize="82" align="center" vAlign="middle" autoSize="none" text="1000"/>
+    <image id="n31_e4tb" name="n31" src="e4tb1i" fileName="图片/金币.png" xy="34,29" size="87,89"/>
+  </displayList>
+</component>

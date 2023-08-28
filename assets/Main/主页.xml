@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920">
   <displayList>
-    <loader id="n7_sv2v" name="bg" xy="0,0" size="1080,1920" url="ui://jab07ubasv2v1" fill="scaleFree">
-      <relation target="" sidePair="width-width,height-height"/>
-    </loader>
-    <component id="n19_izpa" name="Btn1" src="izpa8" fileName="BtnTest.xml" xy="361,1469">
-      <Button title="图1-2*3"/>
-    </component>
-    <component id="n20_izpa" name="Btn2" src="izpa8" fileName="BtnTest.xml" xy="341,1146">
-      <Button title="图1-4*6"/>
-    </component>
-    <component id="n22_izpa" name="Btn3" src="izpa8" fileName="BtnTest.xml" xy="365,783">
-      <Button title="图2-2*3"/>
-    </component>
-    <component id="n21_izpa" name="Btn4" src="izpa8" fileName="BtnTest.xml" xy="343,478">
-      <Button title="图2-4*6"/>
-    </component>
+    <graph id="n23_e4tb" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffeae7e7">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <list id="n26_e4tb" name="list" xy="0,150" size="1080,1771" layout="flow_hz" overflow="scroll" margin="32,0,52,10" lineGap="37" colGap="41" defaultItem="ui://j01fy4y0e4tb1j">
+      <item url="ui://j01fy4y0e4tb1f"/>
+    </list>
+    <component id="n24_e4tb" name="down" src="e4tb14" fileName="组件/底部组件栏.xml" xy="0,1774"/>
+    <component id="n27_e4tb" name="top" src="e4tb1k" fileName="组件/顶部栏.xml" xy="0,0"/>
   </displayList>
 </component>

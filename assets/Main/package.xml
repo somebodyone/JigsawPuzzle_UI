@@ -2,11 +2,59 @@
 <packageDescription id="j01fy4y0">
   <resources>
     <component id="vpwc0" name="主页.xml" path="/" exported="true"/>
-    <component id="sv2v3" name="3X3.xml" path="/组件/" exported="true"/>
-    <component id="sv2v4" name="6X6.xml" path="/组件/" exported="true"/>
-    <component id="sv2v5" name="3X3组件.xml" path="/" exported="true"/>
-    <image id="sv2v7" name="mask(1).png" path="/"/>
-    <component id="izpa8" name="BtnTest.xml" path="/"/>
+    <image id="e4tb9" name="进度1.png" path="/图片/"/>
+    <image id="e4tba" name="进度2.png" path="/图片/"/>
+    <image id="e4tbb" name="bg_card.png" path="/图片/"/>
+    <image id="e4tbc" name="bg_card1.png" path="/图片/" scale="9grid" scale9grid="75,81,16,162"/>
+    <image id="e4tbd" name="bg_circle.png" path="/图片/"/>
+    <image id="e4tbf" name="btn_home.png" path="/图片/"/>
+    <image id="e4tbg" name="btn_main_big.png" path="/图片/"/>
+    <image id="e4tbh" name="btn_main_disable.png" path="/图片/"/>
+    <image id="e4tbi" name="btn_second_later.png" path="/图片/" scale="9grid" scale9grid="68,33,15,66"/>
+    <image id="e4tbj" name="btn_second_later(1).png" path="/图片/"/>
+    <image id="e4tbk" name="circle_off.png" path="/图片/"/>
+    <image id="e4tbl" name="circle_on.png" path="/图片/"/>
+    <image id="e4tbm" name="img_bg_gold.png" path="/图片/"/>
+    <image id="e4tbn" name="img_sign_nor.png" path="/图片/"/>
+    <image id="e4tbo" name="img_sign_selected.png" path="/图片/"/>
+    <image id="e4tbp" name="img_signed.png" path="/图片/"/>
+    <image id="e4tbq" name="music.png" path="/图片/"/>
+    <image id="e4tbr" name="Rectangle 45.png" path="/图片/"/>
+    <image id="e4tbs" name="shake.png" path="/图片/"/>
+    <image id="e4tbt" name="sound.png" path="/图片/"/>
+    <image id="e4tbu" name="steer01.png" path="/图片/"/>
+    <image id="e4tbv" name="tab_icon_game_nor.png" path="/图片/"/>
+    <image id="e4tbw" name="tab_icon_game_nor(1).png" path="/图片/"/>
+    <image id="e4tbx" name="tab_icon_gift_nor.png" path="/图片/"/>
+    <image id="e4tby" name="tab_icon_gift_nor(1).png" path="/图片/"/>
+    <image id="e4tbz" name="tab_icon_scratch_nor.png" path="/图片/"/>
+    <image id="e4tb10" name="tab_icon_scratch_nor(1).png" path="/图片/"/>
+    <image id="e4tb11" name="tab_icon_walk_nor.png" path="/图片/"/>
+    <image id="e4tb12" name="tab_icon_walk_nor(1).png" path="/图片/"/>
+    <image id="e4tb13" name="tittle_bg.png" path="/图片/"/>
+    <component id="e4tb14" name="底部组件栏.xml" path="/组件/"/>
+    <component id="e4tb15" name="通用底部按钮.xml" path="/组件/"/>
+    <image id="e4tb17" name="n25.png" path="/图片/" scale="9grid" scale9grid="14,10,28,20"/>
+    <image id="e4tb18" name="people_2.jpeg" path="/背景/" exported="true"/>
+    <image id="e4tb19" name="people_0.jpg" path="/背景/" exported="true"/>
+    <image id="e4tb1a" name="people_3.jpeg" path="/背景/" exported="true"/>
+    <image id="e4tb1b" name="people_1.jpg" path="/背景/" exported="true"/>
+    <image id="e4tb1c" name="people_4.jpeg" path="/背景/" exported="true"/>
+    <image id="e4tb1d" name="people_5.jpg" path="/背景/" exported="true"/>
+    <image id="e4tb1e" name="people_6.jpg" path="/背景/" exported="true"/>
+    <component id="e4tb1f" name="大卡片.xml" path="/组件/" exported="true"/>
+    <image id="e4tb1g" name="ico_settings.png" path="/图片/"/>
+    <component id="e4tb1h" name="货币栏.xml" path="/组件/"/>
+    <image id="e4tb1i" name="金币.png" path="/图片/"/>
+    <component id="e4tb1j" name="小卡片.xml" path="/组件/" exported="true"/>
+    <component id="e4tb1k" name="顶部栏.xml" path="/组件/"/>
+    <component id="e4tb1l" name="设置按钮.xml" path="/组件/"/>
+    <component id="e4tb1m" name="子项.xml" path="/组件/"/>
+    <component id="e4tb1n" name="游戏主页.xml" path="/" exported="true"/>
+    <component id="e4tb1p" name="3x6.xml" path="/组件/" exported="true"/>
+    <component id="e4tb1q" name="6x12.xml" path="/组件/" exported="true"/>
+    <image id="e4tb1r" name="icon_back.png" path="/图片/"/>
+    <component id="e4tb1s" name="返回按钮.xml" path="/"/>
   </resources>
   <publish name=""/>
 </packageDescription>

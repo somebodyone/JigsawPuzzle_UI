@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="981,530" pivot="0.5,0.5" extention="Button" mask="n27_e4tb">
+  <displayList>
+    <graph id="n27_e4tb" name="mask" xy="0,0" size="981,530" type="rect" lineSize="0" corner="30"/>
+    <loader id="n26_e4tb" name="n26" xy="0,-695" size="981,1920" url="ui://j01fy4y0e4tb1b" fill="scaleMatchWidth"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".97"/>
+</component>
