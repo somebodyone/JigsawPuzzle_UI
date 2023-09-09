@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6m8pw0sb">
+  <resources>
+    <component id="k4b20" name="SettingDialog.xml" path="/" exported="true"/>
+    <image id="k4b21" name="下拉.png" path="/图片/"/>
+    <image id="k4b23" name="ico_lang.png" path="/图片/"/>
+    <image id="k4b24" name="ico_sound.png" path="/图片/"/>
+    <image id="k4b25" name="ico_sound(1).png" path="/图片/"/>
+    <image id="k4b26" name="ico_sound(2).png" path="/图片/"/>
+    <image id="k4b27" name="xx.png" path="/图片/"/>
+    <component id="k4b28" name="设置页通用按钮.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

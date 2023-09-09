@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n0_k4b2" name="bg" xy="129,438" size="821,781" type="rect" lineSize="0" corner="50"/>
+    <text id="n1_k4b2" name="title" xy="330,481" size="420,113" font="ui://jab07ubac1u55" fontSize="83" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0" text="Setting"/>
+    <component id="n3_k4b2" name="termas" src="g9rd4" fileName="通用按钮.xml" pkg="jab07uba" xy="217,653" size="643,133">
+      <Button title="Terms of Use"/>
+    </component>
+    <component id="n4_k4b2" name="privacy" src="g9rd4" fileName="通用按钮.xml" pkg="jab07uba" xy="218,830" size="643,133">
+      <Button title="Privacy Policy"/>
+    </component>
+    <component id="n6_k4b2" name="music" src="k4b28" fileName="设置页通用按钮.xml" xy="221,1026" controller="swtich,0"/>
+    <component id="n8_k4b2" name="audio" src="k4b28" fileName="设置页通用按钮.xml" xy="475,1026">
+      <Button icon="ui://6m8pw0sbk4b25"/>
+    </component>
+    <component id="n9_k4b2" name="hibc" src="k4b28" fileName="设置页通用按钮.xml" xy="729,1026">
+      <Button icon="ui://6m8pw0sbk4b26"/>
+    </component>
+    <component id="n11_k4b2" name="close" src="k4b2a" fileName="通用关闭按钮.xml" pkg="jab07uba" xy="874,467"/>
+  </displayList>
+  <transition name="come" autoPlay="true">
+    <item time="0" type="XY" tween="true" startValue="-1010,0" endValue="0,0" duration="6"/>
+  </transition>
+  <transition name="close">
+    <item time="0" type="XY" tween="true" startValue="0,0" endValue="1058,0" duration="6"/>
+  </transition>
+</component>
