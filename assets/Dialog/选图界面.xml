@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920">
   <displayList>
-    <graph id="n0_g9rd" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0"/>
+    <graph id="n0_g9rd" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffeeeeee">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n4_k4b2" name="titlebg" xy="0,0" size="1080,141" type="rect" lineSize="0">
+      <relation target="" sidePair="width-width,top-top"/>
+    </graph>
     <component id="n1_g9rd" name="back" src="g9rd1" fileName="返回.xml" xy="32,38"/>
-    <list id="n2_g9rd" name="list" xy="0,142" size="1080,1776" layout="pagination" overflow="scroll" margin="0,0,39,0" lineGap="54" colGap="59" defaultItem="ui://j01fy4y0e4tb1j" autoClearItems="true">
+    <list id="n2_g9rd" name="list" xy="1,163" size="1080,1757" layout="pagination" overflow="scroll" margin="0,0,39,0" lineGap="54" colGap="59" defaultItem="ui://j01fy4y0e4tb1j" autoClearItems="true">
       <item/>
       <item/>
       <item/>
