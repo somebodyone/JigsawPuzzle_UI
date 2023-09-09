@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="470,400" pivot="0.5,0.5" extention="Button" mask="n27_e4tb">
+<component size="470,400">
+  <controller name="type" exported="true" pages="0,all,1,collect,2,lock,3,null" selected="1"/>
   <displayList>
-    <graph id="n27_e4tb" name="mask" xy="0,0" size="470,400" type="rect" lineSize="0" corner="30"/>
-    <loader id="n26_e4tb" name="icon" xy="0,-245" size="470,890" url="ui://j01fy4y0e4tb1b" fill="scaleMatchWidth"/>
+    <component id="n0_b2jk" name="card" src="e4tb1j" fileName="组件/小卡片组件.xml" xy="0,0"/>
+    <component id="n1_b2jk" name="collect" src="lyqw64" fileName="组件/收藏组件.xml" xy="410,13" size="50,50">
+      <gearDisplay controller="type" pages="0,1,3"/>
+      <gearXY controller="type" pages="0,1" values="347,13|410,13" default="410,12"/>
+    </component>
+    <component id="n2_b2jk" name="lock" src="lyqw66" fileName="组件/锁定组件.xml" xy="410,13" size="50,50">
+      <gearDisplay controller="type" pages="0,2"/>
+    </component>
   </displayList>
-  <Button downEffect="scale" downEffectValue=".95"/>
 </component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ndikgvwg">
+  <resources>
+    <component id="g9rd0" name="选图界面.xml" path="/" exported="true"/>
+    <component id="g9rd1" name="返回.xml" path="/" exported="true"/>
+    <image id="e4tb1r" name="icon_back.png" path="/图片/" exported="true"/>
+    <component id="g9rd2" name="游戏进入选择界面.xml" path="/" exported="true"/>
+    <component id="g9rd3" name="选择图片mask.xml" path="/"/>
+    <component id="g9rd4" name="难度选择子项.xml" path="/" exported="true"/>
+    <component id="b2jk1s" name="解锁卡牌弹窗.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

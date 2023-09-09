@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="jab07uba">
   <resources>
-    <image id="sv2v1" name="bg_1.jpg" path="/图片/" exported="true"/>
-    <font id="e4tb2" name="Sarala-Bold.ttf" path="/" exported="true" renderMode="sdfaa" samplePointSize="60"/>
+    <component id="g9rd3" name="通用界面.xml" path="/"/>
+    <component id="g9rd4" name="通用按钮.xml" path="/" exported="true"/>
+    <font id="c1u55" name="xiachanyuanti.ttf" path="/" exported="true" renderMode="sdfaa" samplePointSize="60"/>
+    <component id="b2jk6" name="金币按钮.xml" path="/" exported="true"/>
+    <component id="b2jk7" name="广告按钮.xml" path="/" exported="true"/>
+    <image id="b2jk8" name="视频图标.png" path="/图片/"/>
+    <component id="b2jk9" name="视频图标.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

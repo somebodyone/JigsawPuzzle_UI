@@ -35,26 +35,160 @@
     <component id="e4tb14" name="底部组件栏.xml" path="/组件/"/>
     <component id="e4tb15" name="通用底部按钮.xml" path="/组件/"/>
     <image id="e4tb17" name="n25.png" path="/图片/" scale="9grid" scale9grid="14,10,28,20"/>
-    <image id="e4tb18" name="people_2.jpeg" path="/背景/" exported="true"/>
-    <image id="e4tb19" name="people_0.jpg" path="/背景/" exported="true"/>
-    <image id="e4tb1a" name="people_3.jpeg" path="/背景/" exported="true"/>
-    <image id="e4tb1b" name="people_1.jpg" path="/背景/" exported="true"/>
-    <image id="e4tb1c" name="people_4.jpeg" path="/背景/" exported="true"/>
-    <image id="e4tb1d" name="people_5.jpg" path="/背景/" exported="true"/>
-    <image id="e4tb1e" name="people_6.jpg" path="/背景/" exported="true"/>
+    <image id="e4tb18" name="gril14.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="e4tb1a" name="nature5.jpeg" path="/背景/nature/" exported="true"/>
+    <image id="e4tb1b" name="gril13.jpg" path="/背景/gril/" exported="true"/>
+    <image id="e4tb1d" name="animal9.jpg" path="/背景/animal/" exported="true"/>
     <component id="e4tb1f" name="大卡片.xml" path="/组件/" exported="true"/>
     <image id="e4tb1g" name="ico_settings.png" path="/图片/"/>
     <component id="e4tb1h" name="货币栏.xml" path="/组件/"/>
-    <image id="e4tb1i" name="金币.png" path="/图片/"/>
-    <component id="e4tb1j" name="小卡片.xml" path="/组件/" exported="true"/>
+    <image id="e4tb1i" name="金币.png" path="/图片/" exported="true"/>
+    <component id="e4tb1j" name="小卡片组件.xml" path="/组件/" exported="true"/>
     <component id="e4tb1k" name="顶部栏.xml" path="/组件/"/>
     <component id="e4tb1l" name="设置按钮.xml" path="/组件/"/>
-    <component id="e4tb1m" name="子项.xml" path="/组件/"/>
+    <component id="e4tb1m" name="子项.xml" path="/组件/" exported="true"/>
     <component id="e4tb1n" name="游戏主页.xml" path="/" exported="true"/>
-    <component id="e4tb1p" name="3x6.xml" path="/组件/" exported="true"/>
-    <component id="e4tb1q" name="6x12.xml" path="/组件/" exported="true"/>
-    <image id="e4tb1r" name="icon_back.png" path="/图片/"/>
-    <component id="e4tb1s" name="返回按钮.xml" path="/"/>
+    <component id="e4tb1s" name="返回按钮.xml" path="/组件/"/>
+    <component id="g9rd1t" name="图片筛选.xml" path="/" exported="true"/>
+    <image id="g9rd1u" name="item1.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd1v" name="item2.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd1w" name="item3.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd1x" name="item4.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd1y" name="item5.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd1z" name="item6.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd20" name="item7.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd21" name="item8.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd22" name="item9.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd23" name="item0.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd24" name="item10.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd25" name="item11.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd26" name="item12.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd27" name="item13.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd28" name="item14.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd29" name="item15.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd2a" name="item16.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd2b" name="item17.png" path="/列表图片/" exported="true"/>
+    <image id="g9rd2c" name="item18.png" path="/列表图片/" exported="true"/>
+    <image id="c1u52d" name="nature6.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52e" name="nature7.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52f" name="nature8.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52g" name="flowers0.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u52h" name="nature0.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52i" name="landmark0.jpg" path="/背景/landmark/" exported="true"/>
+    <image id="c1u52k" name="nature1.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52l" name="nature2.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52m" name="nature3.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52n" name="nature4.jpg" path="/背景/nature/" exported="true"/>
+    <component id="c1u52o" name="每日拼图.xml" path="/" exported="true"/>
+    <component id="c1u52p" name="每日.xml" path="/组件/" exported="true"/>
+    <image id="c1u52q" name="flowers1.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u52r" name="nature26.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52s" name="landmark2.jpg" path="/背景/landmark/" exported="true"/>
+    <image id="c1u52u" name="nature27.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52w" name="flowers10.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u52x" name="landmark3.jpg" path="/背景/landmark/" exported="true"/>
+    <image id="c1u52y" name="nature28.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u52z" name="nature29.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u530" name="nature30.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u531" name="flowers11.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u532" name="nature31.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u533" name="nature32.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u534" name="nature33.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u535" name="flowers12.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u536" name="nature34.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u537" name="nature35.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u538" name="flowers13.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u539" name="nature36.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53a" name="nature37.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53b" name="flowers14.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53c" name="flowers15.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53d" name="flowers16.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53e" name="landmark4.jpg" path="/背景/landmark/" exported="true"/>
+    <image id="c1u53f" name="flowers17.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53g" name="nature25.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53h" name="flowers18.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53i" name="nature24.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53j" name="landmark1.jpg" path="/背景/landmark/" exported="true"/>
+    <image id="c1u53k" name="flowers2.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53l" name="flowers3.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53m" name="flowers4.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53n" name="nature9.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53o" name="nature10.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53p" name="nature11.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53q" name="nature12.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53r" name="nature13.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53s" name="nature14.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53t" name="nature15.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53v" name="flowers5.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53w" name="flowers6.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u53x" name="nature16.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u53y" name="nature17.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u540" name="nature18.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u541" name="nature19.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u542" name="flowers7.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u543" name="nature20.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u544" name="flowers8.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u545" name="nature21.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u546" name="nature22.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u547" name="mystery5.jpg" path="/背景/mystery/" exported="true"/>
+    <image id="c1u548" name="flowers9.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u549" name="nature23.jpg" path="/背景/nature/" exported="true"/>
+    <image id="c1u54a" name="flowers19.jpg" path="/背景/flowers/" exported="true"/>
+    <image id="c1u54b" name="pet0.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54c" name="animal8.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54d" name="pet10.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54e" name="animal4.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54f" name="pet5.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54g" name="pet6.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54h" name="animal3.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54i" name="animal2.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54j" name="animal1.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54k" name="animal0.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54m" name="animal7.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54n" name="pet8.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54o" name="pet7.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54p" name="pet9.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54q" name="animal5.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54r" name="pet4.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54s" name="pet3.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54u" name="pet1.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54v" name="pet2.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54w" name="animal6.jpg" path="/背景/animal/" exported="true"/>
+    <image id="c1u54x" name="pet11.jpg" path="/背景/pet/" exported="true"/>
+    <image id="c1u54y" name="mystery2.jpg" path="/背景/mystery/" exported="true"/>
+    <image id="c1u54z" name="mystery0.jpg" path="/背景/mystery/" exported="true"/>
+    <image id="c1u550" name="mystery1.jpg" path="/背景/mystery/" exported="true"/>
+    <image id="c1u551" name="mystery3.jpeg" path="/背景/mystery/" exported="true"/>
+    <image id="c1u552" name="mystery4.jpeg" path="/背景/mystery/" exported="true"/>
+    <image id="c1u554" name="gril1.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u555" name="gril2.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u556" name="gril3.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u557" name="gril0.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u558" name="gril4.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u559" name="gril5.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55a" name="gril6.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55b" name="gril7.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55c" name="gril8.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55d" name="gril9.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55e" name="gril10.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55f" name="gril11.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55g" name="gril12.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55t" name="gril15.jpeg" path="/背景/gril/" exported="true"/>
+    <image id="c1u55u" name="cartoon4.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u55v" name="cartoon2.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u55w" name="cartoon1.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u55x" name="cartoon0.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u55y" name="cartoon5.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u55z" name="cartoon3.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u560" name="cartoon6.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u561" name="cartoon7.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="c1u562" name="cartoon8.jpeg" path="/背景/cartoon/" exported="true"/>
+    <image id="lyqw63" name="锁.png" path="/图片/"/>
+    <component id="lyqw64" name="收藏组件.xml" path="/组件/"/>
+    <image id="lyqw65" name="收藏.png" path="/图片/"/>
+    <component id="lyqw66" name="锁定组件.xml" path="/组件/"/>
+    <component id="b2jk67" name="小卡片.xml" path="/组件/" exported="true"/>
+    <component id="b2jk68" name="我的拼图.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

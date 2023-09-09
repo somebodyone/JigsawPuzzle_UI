@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="503,162" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <graph id="n1_b2jk" name="bg" xy="0,0" size="503,162" type="rect" lineSize="0" fillColor="#ffffcc00" corner="80">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n2_b2jk" name="title" xy="128,20" size="329,119" font="ui://jab07ubac1u55" fontSize="90" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#ff9900" strokeSize="0.2" faceDilate="0.2" text="Enter The Game">
+      <relation target="" sidePair="width-width,height-height%,center-center,middle-middle"/>
+    </text>
+    <image id="n3_b2jk" name="n3" src="e4tb1i" fileName="图片/金币.png" pkg="j01fy4y0" xy="33,38" size="87,90"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

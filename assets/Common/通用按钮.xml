@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="503,162" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <graph id="n0_g9rd" name="bg" xy="0,0" size="503,162" type="rect" lineSize="0" fillColor="#ff009966" corner="80">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n1_g9rd" name="title" xy="46,23" size="411,116" font="ui://jab07ubac1u55" fontSize="51" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="Enter The Game">
+      <relation target="" sidePair="width-width,height-height%,center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

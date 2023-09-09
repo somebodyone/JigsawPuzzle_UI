@@ -5,7 +5,7 @@
     <component id="n0_sv2v" name="slider" src="sv2v1" fileName="加载页进度条.xml" xy="179,1701" size="721,81">
       <ProgressBar value="100" max="100"/>
     </component>
-    <text id="n4_f6ix" name="title" xy="539,147" pivot="0.5,0.5" anchor="true" size="807,179" font="ui://jab07ubae4tb2" fontSize="101" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" faceDilate="0.1" text="Julg Puzzle"/>
+    <text id="n4_f6ix" name="title" xy="539,147" pivot="0.5,0.5" anchor="true" size="807,179" font="ui://jab07ubac1u55" fontSize="101" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" faceDilate="0.1" text="Julg Puzzle"/>
   </displayList>
   <transition name="come" autoPlay="true">
     <item time="0" type="Alpha" target="n4_f6ix" tween="true" startValue="0" endValue="1" duration="12"/>

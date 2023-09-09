@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1081,146">
+<component size="1080,146" extention="Button">
   <displayList>
-    <graph id="n37_e4tb" name="bg" xy="0,0" size="1081,146" type="rect"/>
-    <loader id="n34_e4tb" name="n34" xy="34,9" size="122,120"/>
-    <text id="n36_e4tb" name="n36" xy="184,11" size="572,117" font="ui://jab07ubae4tb2" fontSize="42" vAlign="middle" autoSize="none" text="All puzzles"/>
+    <graph id="n37_e4tb" name="bg" xy="0,0" size="1081,146" type="rect" lineSize="0"/>
+    <loader id="n34_e4tb" name="icon" xy="34,9" size="122,120" url="ui://j01fy4y0g9rd1u" align="center" vAlign="middle" fill="scaleMatchWidth"/>
+    <text id="n36_e4tb" name="title" xy="184,11" size="572,117" font="ui://jab07ubac1u55" fontSize="42" vAlign="middle" autoSize="none" text="All puzzles"/>
   </displayList>
+  <Button/>
 </component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n0_g9rd" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffeeeeee"/>
+    <component id="n1_g9rd" name="title" src="g9rd3" fileName="选择图片mask.xml" xy="115,169"/>
+    <list id="n2_g9rd" name="list" xy="56,1392" size="968,243" layout="row" overflow="scroll" scroll="horizontal" margin="16,0,0,0" colGap="62" defaultItem="ui://ndikgvwgg9rd4" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n3_g9rd" name="back" src="g9rd1" fileName="返回.xml" xy="32,38"/>
+    <component id="n6_g9rd" name="enter" src="g9rd4" fileName="通用按钮.xml" pkg="jab07uba" xy="288,1710"/>
+  </displayList>
+  <transition name="come" autoPlay="true">
+    <item time="0" type="XY" tween="true" startValue="1080,0" endValue="0,0" duration="6"/>
+  </transition>
+  <transition name="close">
+    <item time="0" type="XY" tween="true" startValue="0,0" endValue="1080,0" duration="6"/>
+  </transition>
+</component>

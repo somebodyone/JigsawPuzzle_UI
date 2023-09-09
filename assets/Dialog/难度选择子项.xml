@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="202,209" pivot="0.5,0.5" extention="Button">
+  <controller name="select" exported="true" pages="1,off,0,on" selected="0"/>
+  <displayList>
+    <graph id="n4_g9rd" name="bg" xy="0,0" size="202,208" type="rect" lineSize="0" corner="20">
+      <gearColor controller="select" pages="0" values="#009966" default="#ffffff"/>
+    </graph>
+    <text id="n5_g9rd" name="title" xy="19,21" size="163,104" font="ui://jab07ubac1u55" fontSize="39" align="center" vAlign="middle" autoSize="shrink" faceDilate="0.2" singleLine="true" text="Difficulty 1">
+      <gearColor controller="select" pages="0" values="#ffffff,#000000" default="#000000,#000000"/>
+    </text>
+    <image id="n6_c1u5" name="gold" src="e4tb1i" fileName="图片/金币.png" pkg="j01fy4y0" xy="14,138"/>
+    <text id="n7_c1u5" name="reward" xy="77,138" size="105,51" font="ui://jab07ubac1u55" fontSize="33" vAlign="middle" autoSize="none" text="1000">
+      <gearColor controller="select" pages="0" values="#ffffff,#000000" default="#000000,#000000"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

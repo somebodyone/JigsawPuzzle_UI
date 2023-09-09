@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="41,41" pivot="0.5,0.5" extention="Button">
+  <controller name="select" exported="true" pages="0,on,1,off" selected="0"/>
+  <displayList>
+    <graph id="n29_lyqw" name="bg" xy="0,0" size="41,41" type="eclipse" lineSize="0" fillColor="#ff666666">
+      <gearColor controller="select" pages="0,1" values="#666666|#009966"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n30_lyqw" name="icon" xy="8,10" size="25,25" url="ui://j01fy4y0lyqw65" align="center" vAlign="middle" fill="scaleMatchWidth">
+      <gearColor controller="select" pages="0,1" values="#ffffff|#ffffff"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

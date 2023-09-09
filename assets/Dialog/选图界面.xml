@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n0_g9rd" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0"/>
+    <component id="n1_g9rd" name="back" src="g9rd1" fileName="返回.xml" xy="32,38"/>
+    <list id="n2_g9rd" name="list" xy="0,142" size="1080,1776" layout="pagination" overflow="scroll" margin="0,0,39,0" lineGap="54" colGap="59" defaultItem="ui://j01fy4y0e4tb1j" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_g9rd" name="title" xy="261,24" size="558,88" font="ui://jab07ubac1u55" fontSize="67" align="center" autoSize="shrink" text="物体"/>
+  </displayList>
+  <transition name="come" autoPlay="true">
+    <item time="0" type="XY" tween="true" startValue="0,1920" endValue="0,0" duration="4" ease="Cubic.Out"/>
+  </transition>
+  <transition name="close">
+    <item time="0" type="XY" tween="true" startValue="0,0" endValue="0,1920" duration="4"/>
+  </transition>
+</component>

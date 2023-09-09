@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n0_g9rd" name="n0" src="g9rd4" fileName="通用按钮.xml" xy="294,560"/>
+    <component id="n1_b2jk" name="bg" src="b2jk6" fileName="金币按钮.xml" xy="299,840"/>
+    <component id="n4_b2jk" name="bg" src="b2jk7" fileName="广告按钮.xml" xy="300,1031"/>
+  </displayList>
+</component>

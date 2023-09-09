@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="41,41" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <graph id="n31_lyqw" name="bg" xy="0,0" size="41,41" type="eclipse" lineSize="0" fillColor="#ff009966">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n32_lyqw" name="icon" xy="7,7" size="27,27" url="ui://j01fy4y0lyqw63" align="center" vAlign="middle" fill="scaleMatchWidth">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

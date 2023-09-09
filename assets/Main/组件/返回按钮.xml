@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="73,73" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n3_e4tb" name="n3" src="e4tb1r" fileName="图片/icon_back.png" xy="0,0" pkg="ndikgvwg"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

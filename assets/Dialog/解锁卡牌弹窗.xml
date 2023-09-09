@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n5_b2jk" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_b2jk" name="title" src="g9rd3" fileName="选择图片mask.xml" xy="114,228">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n2_b2jk" name="adbtn" src="b2jk7" fileName="广告按钮.xml" pkg="jab07uba" xy="260,1610" size="607,162">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="UNLOCK"/>
+    </component>
+    <component id="n3_b2jk" name="goldbtn" src="b2jk6" fileName="金币按钮.xml" pkg="jab07uba" xy="263,1415" size="607,162">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="1000"/>
+    </component>
+    <component id="n4_b2jk" name="back" src="g9rd1" fileName="返回.xml" xy="32,38"/>
+  </displayList>
+  <transition name="come" autoPlay="true">
+    <item time="0" type="XY" tween="true" startValue="0,1700" endValue="0,0" duration="6"/>
+  </transition>
+  <transition name="close">
+    <item time="0" type="XY" value="0,0"/>
+    <item time="0" type="XY" tween="true" startValue="0,0" endValue="0,1700" duration="6"/>
+  </transition>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="852,1130" extention="Label" mask="n2_g9rd">
+  <displayList>
+    <loader id="n1_g9rd" name="icon" xy="0,0" size="852,1516" url="ui://j01fy4y0e4tb1b" fill="scaleMatchWidth"/>
+    <graph id="n2_g9rd" name="mask" xy="0,0" size="852,1130" type="rect" lineSize="0" corner="30"/>
+  </displayList>
+</component>

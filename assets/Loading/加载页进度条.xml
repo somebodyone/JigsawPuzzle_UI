@@ -7,7 +7,7 @@
     <graph id="n1_sv2v" name="bar" xy="0,0" size="717,100" type="rect" lineSize="0" corner="30">
       <relation target="" sidePair="width-width,height-height"/>
     </graph>
-    <text id="n2_sv2v" name="n2" xy="95,9" size="526,83" font="ui://jab07ubae4tb2" fontSize="47" align="center" vAlign="middle" autoSize="none" text="100%">
+    <text id="n2_sv2v" name="text" xy="95,9" size="526,83" font="ui://jab07ubac1u55" fontSize="47" align="center" vAlign="middle" autoSize="none" text="100%">
       <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
     </text>
   </displayList>

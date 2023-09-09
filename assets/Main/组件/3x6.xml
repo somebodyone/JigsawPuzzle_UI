@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component size="1080,1920" pivot="0.5,0.5" anchor="true" extention="Button">
-  <displayList>
-    <loader id="n1_e4tb" name="icon" xy="0,0" size="1080,1920" url="ui://j01fy4y0e4tb18" fill="scaleMatchWidth"/>
-  </displayList>
-  <Button/>
-</component>
