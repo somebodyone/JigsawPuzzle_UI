@@ -2,9 +2,9 @@
 <component size="975,489">
   <displayList>
     <graph id="n2_c1u5" name="bg" xy="0,0" size="975,489" type="rect" lineSize="0" corner="30"/>
-    <component id="n3_c1u5" name="n3" src="g9rd4" fileName="通用按钮.xml" pkg="jab07uba" xy="-12,311" size="411,120" scale="0.6,0.6"/>
-    <text id="n4_c1u5" name="n4" xy="73,91" size="161,51" font="ui://jab07ubac1u55" fontSize="34" vAlign="middle" autoSize="none" bold="true" text="Today"/>
-    <text id="n5_c1u5" name="n5" xy="73,153" size="206,51" font="ui://jab07ubac1u55" fontSize="34" vAlign="middle" autoSize="none" text="August  10"/>
-    <component id="n7_c1u5" name="n7" src="e4tb1j" fileName="组件/小卡片.xml" xy="476,41" scale="0.8,0.8"/>
+    <component id="n3_c1u5" name="enter" src="g9rd4" fileName="通用按钮.xml" pkg="jab07uba" xy="-12,311" size="411,120" scale="0.6,0.6"/>
+    <text id="n4_c1u5" name="total" xy="73,91" size="161,51" font="ui://jab07ubac1u55" fontSize="34" vAlign="middle" autoSize="none" bold="true" text="Today"/>
+    <text id="n5_c1u5" name="time" xy="73,153" size="206,51" font="ui://jab07ubac1u55" fontSize="34" vAlign="middle" autoSize="none" text="August  10"/>
+    <component id="n7_c1u5" name="card" src="e4tb1j" fileName="组件/小卡片组件.xml" xy="476,41" scale="0.8,0.8"/>
   </displayList>
 </component>

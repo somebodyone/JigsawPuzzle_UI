@@ -189,6 +189,34 @@
     <component id="lyqw66" name="锁定组件.xml" path="/组件/"/>
     <component id="b2jk67" name="小卡片.xml" path="/组件/" exported="true"/>
     <component id="b2jk68" name="我的拼图.xml" path="/" exported="true"/>
+    <image id="k4b269" name="dailypuzzle19.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26a" name="dailypuzzle0.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26b" name="dailypuzzle13.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26c" name="dailypuzzle7.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26d" name="dailypuzzle6.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26e" name="dailypuzzle5.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26f" name="dailypuzzle4.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26g" name="dailypuzzle3.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26h" name="dailypuzzle26.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26i" name="dailypuzzle17.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26j" name="dailypuzzle16.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26k" name="dailypuzzle15.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26l" name="dailypuzzle14.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26m" name="dailypuzzle1.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26n" name="dailypuzzle20.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26o" name="dailypuzzle10.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26p" name="dailypuzzle24.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26q" name="dailypuzzle9.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26r" name="dailypuzzle23.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26s" name="dailypuzzle8.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26t" name="dailypuzzle22.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26u" name="dailypuzzle25.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26v" name="dailypuzzle21.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26w" name="dailypuzzle11.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26x" name="dailypuzzle27.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26y" name="dailypuzzle2.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b26z" name="dailypuzzle12.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b270" name="dailypuzzle18.jpeg" path="/背景/dailypuzzle/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

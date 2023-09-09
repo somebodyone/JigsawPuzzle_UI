@@ -11,6 +11,7 @@
     </list>
     <component id="n30_g9rd" name="cateGorayPage" src="g9rd1t" fileName="图片筛选.xml" xy="0,0">
       <gearDisplay controller="type" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
     </component>
     <component id="n31_b2jk" name="dailyPuzzle" src="c1u52o" fileName="每日拼图.xml" xy="0,0">
       <gearDisplay controller="type" pages="1"/>

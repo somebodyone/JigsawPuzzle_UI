@@ -2,7 +2,7 @@
 <component size="1080,1920">
   <displayList>
     <graph id="n28_g9rd" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffe4e2e2">
-      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
     </graph>
     <list id="n29_g9rd" name="list" xy="0,178" size="1080,1553" overflow="scroll" lineGap="6" defaultItem="ui://j01fy4y0e4tb1m" autoClearItems="true">
       <item icon="ui://j01fy4y0g9rd1v"/>

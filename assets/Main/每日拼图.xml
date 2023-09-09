@@ -4,13 +4,7 @@
     <graph id="n0_c1u5" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffe4e2e2">
       <relation target="" sidePair="width-width,height-height"/>
     </graph>
-    <list id="n1_c1u5" name="list" xy="1,195" size="1080,1720" layout="pagination" overflow="scroll" margin="0,0,55,0" lineGap="33" colGap="32" defaultItem="ui://j01fy4y0e4tb1j" align="center">
-      <item url="ui://j01fy4y0c1u52p"/>
-      <item/>
-      <item/>
-      <item/>
-      <item/>
-      <item/>
+    <list id="n1_c1u5" name="list" xy="1,195" size="1080,1720" overflow="scroll" margin="0,0,55,0" lineGap="33" colGap="32" defaultItem="ui://j01fy4y0c1u52p" align="center" autoClearItems="true">
       <item/>
       <item/>
       <item/>

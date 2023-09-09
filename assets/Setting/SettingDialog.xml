@@ -19,7 +19,7 @@
     <component id="n11_k4b2" name="close" src="k4b2a" fileName="通用关闭按钮.xml" pkg="jab07uba" xy="874,467"/>
   </displayList>
   <transition name="come" autoPlay="true">
-    <item time="0" type="XY" tween="true" startValue="-1010,0" endValue="0,0" duration="6"/>
+    <item time="0" type="XY" tween="true" startValue="0,1920" endValue="0,0" duration="6"/>
   </transition>
   <transition name="close">
     <item time="0" type="XY" tween="true" startValue="0,0" endValue="1058,0" duration="6"/>

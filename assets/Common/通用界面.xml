@@ -5,5 +5,8 @@
     <component id="n1_b2jk" name="bg" src="b2jk6" fileName="金币按钮.xml" xy="299,840"/>
     <component id="n4_b2jk" name="bg" src="b2jk7" fileName="广告按钮.xml" xy="300,1031"/>
     <component id="n5_k4b2" name="n5" src="k4b2a" fileName="通用关闭按钮.xml" xy="302,174"/>
+    <component id="n7_k4b2" name="n7" src="k4b2b" fileName="提示框.xml" xy="0,298">
+      <relation target="" sidePair="width-width"/>
+    </component>
   </displayList>
 </component>

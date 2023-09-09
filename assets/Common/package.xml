@@ -10,6 +10,7 @@
     <component id="b2jk9" name="视频图标.xml" path="/" exported="true"/>
     <image id="k4b29" name="形状 618 拷贝.png" path="/图片/" exported="true"/>
     <component id="k4b2a" name="通用关闭按钮.xml" path="/" exported="true"/>
+    <component id="k4b2b" name="提示框.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

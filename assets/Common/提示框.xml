@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,115" extention="Label">
+  <displayList>
+    <graph id="n7_k4b2" name="bg" xy="0,0" size="1080,115" alpha="0.8" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <text id="n8_k4b2" name="title" xy="18,12" size="1046,84" font="ui://jab07ubac1u55" fontSize="64" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="Ength 100"/>
+  </displayList>
+</component>
