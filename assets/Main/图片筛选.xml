@@ -5,6 +5,7 @@
       <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
     </graph>
     <list id="n29_g9rd" name="list" xy="0,178" size="1080,1553" overflow="scroll" lineGap="6" defaultItem="ui://j01fy4y0e4tb1m" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
       <item icon="ui://j01fy4y0g9rd1v"/>
       <item icon="ui://j01fy4y0g9rd1u"/>
       <item icon="ui://j01fy4y0g9rd1w"/>
