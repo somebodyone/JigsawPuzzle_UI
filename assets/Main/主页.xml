@@ -5,7 +5,7 @@
     <graph id="n23_e4tb" name="bg" xy="0,0" size="1080,1920" type="rect" lineSize="0" fillColor="#ffeae7e7">
       <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
     </graph>
-    <list id="n26_e4tb" name="list" xy="0,150" size="1080,1771" layout="flow_hz" overflow="scroll" margin="32,0,52,10" lineGap="37" colGap="41" defaultItem="ui://j01fy4y0e4tb1j">
+    <list id="n26_e4tb" name="list" xy="0,150" size="1080,1771" layout="flow_hz" overflow="scroll" margin="32,0,52,10" lineGap="37" colGap="41" defaultItem="ui://j01fy4y0e4tb1j" autoClearItems="true">
       <relation target="" sidePair="width-width,height-height,center-center,top-top"/>
       <item url="ui://j01fy4y0e4tb1f"/>
     </list>

@@ -35,10 +35,6 @@
     <component id="e4tb14" name="底部组件栏.xml" path="/组件/"/>
     <component id="e4tb15" name="通用底部按钮.xml" path="/组件/"/>
     <image id="e4tb17" name="n25.png" path="/图片/" scale="9grid" scale9grid="14,10,28,20"/>
-    <image id="e4tb18" name="gril14.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="e4tb1a" name="nature5.jpeg" path="/背景/nature/" exported="true"/>
-    <image id="e4tb1b" name="gril13.jpg" path="/背景/gril/" exported="true"/>
-    <image id="e4tb1d" name="animal9.jpg" path="/背景/animal/" exported="true"/>
     <component id="e4tb1f" name="大卡片.xml" path="/组件/" exported="true"/>
     <image id="e4tb1g" name="ico_settings.png" path="/图片/"/>
     <component id="e4tb1h" name="货币栏.xml" path="/组件/"/>
@@ -69,154 +65,152 @@
     <image id="g9rd2a" name="item16.png" path="/列表图片/" exported="true"/>
     <image id="g9rd2b" name="item17.png" path="/列表图片/" exported="true"/>
     <image id="g9rd2c" name="item18.png" path="/列表图片/" exported="true"/>
-    <image id="c1u52d" name="nature6.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52e" name="nature7.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52f" name="nature8.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52g" name="flowers0.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u52h" name="nature0.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52i" name="landmark0.jpg" path="/背景/landmark/" exported="true"/>
-    <image id="c1u52k" name="nature1.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52l" name="nature2.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52m" name="nature3.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52n" name="nature4.jpg" path="/背景/nature/" exported="true"/>
     <component id="c1u52o" name="每日拼图.xml" path="/" exported="true"/>
     <component id="c1u52p" name="每日.xml" path="/组件/" exported="true"/>
-    <image id="c1u52q" name="flowers1.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u52r" name="nature26.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52s" name="landmark2.jpg" path="/背景/landmark/" exported="true"/>
-    <image id="c1u52u" name="nature27.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52w" name="flowers10.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u52x" name="landmark3.jpg" path="/背景/landmark/" exported="true"/>
-    <image id="c1u52y" name="nature28.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u52z" name="nature29.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u530" name="nature30.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u531" name="flowers11.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u532" name="nature31.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u533" name="nature32.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u534" name="nature33.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u535" name="flowers12.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u536" name="nature34.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u537" name="nature35.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u538" name="flowers13.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u539" name="nature36.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53a" name="nature37.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53b" name="flowers14.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53c" name="flowers15.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53d" name="flowers16.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53e" name="landmark4.jpg" path="/背景/landmark/" exported="true"/>
-    <image id="c1u53f" name="flowers17.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53g" name="nature25.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53h" name="flowers18.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53i" name="nature24.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53j" name="landmark1.jpg" path="/背景/landmark/" exported="true"/>
-    <image id="c1u53k" name="flowers2.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53l" name="flowers3.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53m" name="flowers4.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53n" name="nature9.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53o" name="nature10.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53p" name="nature11.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53q" name="nature12.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53r" name="nature13.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53s" name="nature14.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53t" name="nature15.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53v" name="flowers5.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53w" name="flowers6.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u53x" name="nature16.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u53y" name="nature17.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u540" name="nature18.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u541" name="nature19.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u542" name="flowers7.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u543" name="nature20.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u544" name="flowers8.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u545" name="nature21.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u546" name="nature22.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u547" name="mystery5.jpg" path="/背景/mystery/" exported="true"/>
-    <image id="c1u548" name="flowers9.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u549" name="nature23.jpg" path="/背景/nature/" exported="true"/>
-    <image id="c1u54a" name="flowers19.jpg" path="/背景/flowers/" exported="true"/>
-    <image id="c1u54b" name="pet0.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54c" name="animal8.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54d" name="pet10.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54e" name="animal4.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54f" name="pet5.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54g" name="pet6.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54h" name="animal3.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54i" name="animal2.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54j" name="animal1.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54k" name="animal0.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54m" name="animal7.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54n" name="pet8.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54o" name="pet7.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54p" name="pet9.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54q" name="animal5.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54r" name="pet4.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54s" name="pet3.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54u" name="pet1.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54v" name="pet2.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54w" name="animal6.jpg" path="/背景/animal/" exported="true"/>
-    <image id="c1u54x" name="pet11.jpg" path="/背景/pet/" exported="true"/>
-    <image id="c1u54y" name="mystery2.jpg" path="/背景/mystery/" exported="true"/>
-    <image id="c1u54z" name="mystery0.jpg" path="/背景/mystery/" exported="true"/>
-    <image id="c1u550" name="mystery1.jpg" path="/背景/mystery/" exported="true"/>
-    <image id="c1u551" name="mystery3.jpeg" path="/背景/mystery/" exported="true"/>
-    <image id="c1u552" name="mystery4.jpeg" path="/背景/mystery/" exported="true"/>
-    <image id="c1u554" name="gril1.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u555" name="gril2.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u556" name="gril3.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u557" name="gril0.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u558" name="gril4.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u559" name="gril5.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55a" name="gril6.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55b" name="gril7.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55c" name="gril8.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55d" name="gril9.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55e" name="gril10.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55f" name="gril11.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55g" name="gril12.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55t" name="gril15.jpeg" path="/背景/gril/" exported="true"/>
-    <image id="c1u55u" name="cartoon4.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u55v" name="cartoon2.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u55w" name="cartoon1.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u55x" name="cartoon0.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u55y" name="cartoon5.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u55z" name="cartoon3.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u560" name="cartoon6.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u561" name="cartoon7.jpeg" path="/背景/cartoon/" exported="true"/>
-    <image id="c1u562" name="cartoon8.jpeg" path="/背景/cartoon/" exported="true"/>
     <image id="lyqw63" name="锁.png" path="/图片/"/>
     <component id="lyqw64" name="收藏组件.xml" path="/组件/"/>
     <image id="lyqw65" name="收藏.png" path="/图片/"/>
     <component id="lyqw66" name="锁定组件.xml" path="/组件/"/>
     <component id="b2jk67" name="小卡片.xml" path="/组件/" exported="true"/>
     <component id="b2jk68" name="我的拼图.xml" path="/" exported="true"/>
-    <image id="k4b269" name="dailypuzzle19.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26a" name="dailypuzzle0.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26b" name="dailypuzzle13.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26c" name="dailypuzzle7.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26d" name="dailypuzzle6.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26e" name="dailypuzzle5.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26f" name="dailypuzzle4.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26g" name="dailypuzzle3.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26h" name="dailypuzzle26.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26i" name="dailypuzzle17.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26j" name="dailypuzzle16.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26k" name="dailypuzzle15.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26l" name="dailypuzzle14.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26m" name="dailypuzzle1.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26n" name="dailypuzzle20.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26o" name="dailypuzzle10.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26p" name="dailypuzzle24.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26q" name="dailypuzzle9.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26r" name="dailypuzzle23.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26s" name="dailypuzzle8.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26t" name="dailypuzzle22.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26u" name="dailypuzzle25.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26v" name="dailypuzzle21.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26w" name="dailypuzzle11.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26x" name="dailypuzzle27.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26y" name="dailypuzzle2.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b26z" name="dailypuzzle12.jpeg" path="/背景/dailypuzzle/" exported="true"/>
-    <image id="k4b270" name="dailypuzzle18.jpeg" path="/背景/dailypuzzle/" exported="true"/>
+    <image id="k4b272" name="nature7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b273" name="nature6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b274" name="nature5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b275" name="nature4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b276" name="nature3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b277" name="nature2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b278" name="nature1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b279" name="nature0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27a" name="mystery5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27b" name="mystery4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27c" name="mystery3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27d" name="mystery2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27e" name="mystery1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27f" name="mystery0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27g" name="landmark4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27h" name="landmark3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27i" name="landmark2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27j" name="gril4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27k" name="gril5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27l" name="gril6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27m" name="gril7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27n" name="gril8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27o" name="gril9.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27p" name="nature8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27q" name="gril10.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27r" name="gril12.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27s" name="gril13.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27t" name="gril14.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27u" name="gril15.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27v" name="landmark0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27w" name="landmark1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27x" name="gril11.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27y" name="gril3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b27z" name="nature9.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b280" name="nature11.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b281" name="pet9.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b282" name="pet8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b283" name="pet7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b284" name="pet6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b285" name="pet5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b286" name="pet4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b287" name="pet3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b288" name="pet2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b289" name="pet1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28a" name="pet0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28b" name="nature32.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28c" name="nature31.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28d" name="nature30.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28e" name="nature29.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28f" name="nature28.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28g" name="nature27.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28h" name="nature26.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28i" name="nature12.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28j" name="nature13.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28k" name="nature14.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28l" name="nature15.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28m" name="nature16.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28n" name="nature17.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28o" name="nature10.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28p" name="nature18.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28q" name="nature20.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28r" name="nature21.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28s" name="nature22.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28t" name="nature23.png" path="/背景/" exported="true" atlas="alone"/>
+    <image id="k4b28u" name="nature24.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28v" name="nature25.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28w" name="nature19.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28x" name="pet10.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28y" name="gril2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b28z" name="gril0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b290" name="dailypuzzle12.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b291" name="dailypuzzle11.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b292" name="dailypuzzle10.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b293" name="dailypuzzle9.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b294" name="dailypuzzle8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b295" name="dailypuzzle7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b296" name="dailypuzzle6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b297" name="dailypuzzle5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b298" name="dailypuzzle4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b299" name="dailypuzzle3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29a" name="dailypuzzle2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29b" name="dailypuzzle1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29c" name="dailypuzzle0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29d" name="cartoon8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29e" name="cartoon7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29f" name="cartoon6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29g" name="cartoon5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29h" name="animal0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29i" name="animal1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29j" name="animal2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29k" name="animal3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29l" name="animal4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29m" name="animal5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29n" name="dailypuzzle13.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29o" name="animal6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29p" name="animal8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29q" name="cartoon0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29r" name="cartoon1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29s" name="cartoon2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29t" name="cartoon3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29u" name="cartoon4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29v" name="animal7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29w" name="gril1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29x" name="dailypuzzle14.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29y" name="dailypuzzle17.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b29z" name="flowers19.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a0" name="flowers18.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a1" name="flowers17.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a2" name="flowers16.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a3" name="flowers15.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a4" name="flowers14.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a5" name="flowers13.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a6" name="flowers12.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a7" name="flowers11.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a8" name="flowers10.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2a9" name="flowers9.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2aa" name="flowers8.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ab" name="flowers7.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ac" name="flowers6.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ad" name="flowers5.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ae" name="flowers4.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2af" name="flowers3.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ag" name="dailypuzzle18.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ah" name="dailypuzzle19.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ai" name="dailypuzzle20.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2aj" name="dailypuzzle21.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ak" name="dailypuzzle22.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2al" name="dailypuzzle23.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2am" name="dailypuzzle15.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2an" name="dailypuzzle24.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ao" name="dailypuzzle26.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ap" name="dailypuzzle27.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2aq" name="dailypuzzle28.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2ar" name="flowers0.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2as" name="flowers1.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2at" name="flowers2.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2au" name="dailypuzzle25.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="k4b2av" name="pet11.png" path="/背景/" exported="true" atlas="alone_npot"/>
   </resources>
   <publish name=""/>
 </packageDescription>

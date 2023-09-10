@@ -3,7 +3,7 @@
   <controller name="type" exported="true" pages="0,all,1,collect,2,lock" selected="0"/>
   <displayList>
     <graph id="n27_e4tb" name="mask" xy="0,0" size="470,400" type="rect" lineSize="0" corner="30"/>
-    <loader id="n26_e4tb" name="icon" xy="0,0" size="470,890" url="ui://j01fy4y0e4tb1b" fill="scaleMatchWidth">
+    <loader id="n26_e4tb" name="icon" xy="0,-245" size="470,890" url="ui://j01fy4y0k4b29h" align="center" vAlign="middle" fill="scaleMatchWidth">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
   </displayList>
