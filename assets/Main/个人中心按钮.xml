@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n34_qnfk" name="icon" xy="1,0" size="118,119" url="ui://j01fy4y0qnfkaw" fill="scaleFree" color="#999999">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

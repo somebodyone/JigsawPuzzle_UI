@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="73,72" pivot="0.5,0.5" extention="Button">
-  <controller name="select" exported="true" pages="0,on,1,off" selected="0"/>
+  <controller name="select" exported="true" pages="0,on,1,off" selected="1"/>
   <displayList>
-    <loader id="n27_e4tb" name="icon" xy="0,0" size="73,72" url="ui://j01fy4y0e4tbx"/>
-    <text id="n28_e4tb" name="title" xy="-47,66" size="167,48" font="ui://jab07ubac1u55" fontSize="33" color="#00cc00" align="center" vAlign="middle" autoSize="shrink" text="HomePage">
-      <gearColor controller="select" pages="0" values="#00cc00,#000000" default="#333333,#000000"/>
+    <loader id="n27_e4tb" name="icon" xy="0,-15" pivot="0.5,0.5" size="73,72" scale="1.1,1.1" url="ui://j01fy4y0qnfkax" align="center" vAlign="middle" color="#009999">
+      <gearSize controller="select" pages="1" values="73,72,1.1,1.1" default="73,72,1,1"/>
+      <gearColor controller="select" pages="0,1" values="#666666|#009999"/>
+    </loader>
+    <text id="n28_e4tb" name="title" xy="-47,66" pivot="0.5,0.5" size="167,48" scale="1.1,1.1" font="ui://jab07ubac1u55" fontSize="33" color="#009999" align="center" vAlign="middle" autoSize="shrink" text="HomePage">
+      <gearSize controller="select" pages="1" values="167,48,1.1,1.1" default="167,48,1,1"/>
+      <gearColor controller="select" pages="0,1" values="#666666,#000000|#009999,#000000"/>
     </text>
   </displayList>
   <Button downEffect="scale" downEffectValue=".9"/>

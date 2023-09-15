@@ -2,17 +2,17 @@
 <component size="1080,145">
   <displayList>
     <graph id="n24_e4tb" name="bg" xy="0,0" size="1080,145" type="rect" lineSize="0"/>
-    <component id="n25_e4tb" name="homepage" src="e4tb15" fileName="组件/通用底部按钮.xml" xy="124,32">
-      <Button icon="ui://j01fy4y0e4tby"/>
+    <component id="n25_e4tb" name="homepage" src="e4tb15" fileName="组件/通用底部按钮.xml" xy="124,34">
+      <Button icon="ui://j01fy4y0qnfkax"/>
     </component>
     <component id="n26_e4tb" name="dailypuzzle" src="e4tb15" fileName="组件/通用底部按钮.xml" xy="373,32">
-      <Button title="daily puzzle" icon="ui://j01fy4y0e4tb10"/>
+      <Button title="daily puzzle" icon="ui://j01fy4y0qnfkay"/>
     </component>
-    <component id="n27_e4tb" name="category" src="e4tb15" fileName="组件/通用底部按钮.xml" xy="622,31">
-      <Button title="category" icon="ui://j01fy4y0e4tby"/>
+    <component id="n27_e4tb" name="category" src="e4tb15" fileName="组件/通用底部按钮.xml" xy="622,31" controller="select,1">
+      <Button title="category" icon="ui://j01fy4y0qnfkb0"/>
     </component>
     <component id="n28_e4tb" name="mypuzzle" src="e4tb15" fileName="组件/通用底部按钮.xml" xy="871,33">
-      <Button title="my puzzle" icon="ui://j01fy4y0e4tb12"/>
+      <Button title="my puzzle" icon="ui://j01fy4y0qnfkaz"/>
     </component>
   </displayList>
 </component>

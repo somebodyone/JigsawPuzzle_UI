@@ -211,6 +211,12 @@
     <image id="k4b2at" name="flowers2.png" path="/背景/" exported="true" atlas="alone_npot"/>
     <image id="k4b2au" name="dailypuzzle25.png" path="/背景/" exported="true" atlas="alone_npot"/>
     <image id="k4b2av" name="pet11.png" path="/背景/" exported="true" atlas="alone_npot"/>
+    <image id="qnfkaw" name="个人中心.png" path="/图片/"/>
+    <image id="qnfkax" name="个人主页.png" path="/图片/"/>
+    <image id="qnfkay" name="每日任务.png" path="/图片/"/>
+    <image id="qnfkaz" name="图片分类.png" path="/图片/"/>
+    <image id="qnfkb0" name="我的收藏.png" path="/图片/"/>
+    <component id="qnfkb1" name="个人中心按钮.xml" path="/"/>
   </resources>
   <publish name=""/>
 </packageDescription>
